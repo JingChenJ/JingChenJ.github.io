@@ -3,7 +3,10 @@
 <div>
     <tr>
       <td>
-        <img width="100%" src="/src/picture/markmaster-1.jpg">
+        <img width="100%" src="/src/picture/markmaster-1.png">
+      </td>
+      <td>
+        <img width="100%" src="/src/picture/markmaster-2.png">
       </td>
     </tr>
 </div>
